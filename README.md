@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://proxidize.com/mobile-proxy-pricing/" target="_blank" rel="noopener noreferrer">
-    <img src="https://imagedelivery.net/r4caA8hJ3Ww3j8uyC_NNCA/95a9137a-43fd-48d4-7243-983f3f4a3d00/public" alt="Proxidize Logo" width="100%"/>
+  <a href="https://aster-god.com/mobile-proxy-pricing/" target="_blank" rel="noopener noreferrer">
+    <img src="https://imagedelivery.net/r4caA8hJ3Ww3j8uyC_NNCA/95a9137a-43fd-48d4-7243-983f3f4a3d00/public" alt="aster-god Logo" width="100%"/>
   </a>
 </div>
 
@@ -47,7 +47,7 @@ Twitter/X scraper built with Playwright for browser automation and OpenAI for AI
 ### Standard Installation
 
 ```bash
-git clone https://github.com/proxidize/x-scraper
+git clone https://github.com/aster-god/x-scraper
 
 # Create and activate virtual environment
 python3 -m venv venv
@@ -282,7 +282,7 @@ This project is for **educational and research purposes only**.
 
 For a detailed walkthrough of how this Twitter/X scraper was built, including challenges faced and solutions implemented, read our comprehensive blog post:
 
-**[Twitter/X Scraper: How to Scrape Twitter for Free](https://proxidize.com/blog/twitter-scraper/)**
+**[Twitter/X Scraper: How to Scrape Twitter for Free](https://aster-god.com/blog/twitter-scraper/)**
 
 The blog post covers:
 - Why Python and Playwright were chosen
@@ -293,7 +293,7 @@ The blog post covers:
 
 ## Support
 
-For issues, questions, or feature requests, please open an issue on GitHub or contact [support@proxidize.com](mailto:support@proxidize.com).
+For issues, questions, or feature requests, please open an issue on GitHub or contact [support@aster-god.com](mailto:support@aster-god.com).
 
 ---
 
