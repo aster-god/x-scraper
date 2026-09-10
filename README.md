@@ -277,24 +277,3 @@ This project is for **educational and research purposes only**.
 - Be mindful of rate limits and API usage
 
 **Disclaimer:** The authors are not responsible for misuse of this tool. Use responsibly and ethically.
-
-## Blog Post
-
-For a detailed walkthrough of how this Twitter/X scraper was built, including challenges faced and solutions implemented, read our comprehensive blog post:
-
-**[Twitter/X Scraper: How to Scrape Twitter for Free](https://aster-god.com/blog/twitter-scraper/)**
-
-The blog post covers:
-- Why Python and Playwright were chosen
-- How Twitter/X's infinite scroll was handled
-- Timeline vs. historical search strategies
-- Proxy rotation and error handling
-- AI integration with OpenAI
-
-## Support
-
-For issues, questions, or feature requests, please open an issue on GitHub or contact [support@aster-god.com](mailto:support@aster-god.com).
-
----
-
-**Note**: This tool is designed for ethical data collection and research purposes. Always comply with Twitter/X's Terms of Service and respect rate limits.
